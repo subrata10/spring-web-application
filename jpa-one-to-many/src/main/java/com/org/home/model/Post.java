@@ -1,4 +1,4 @@
-package com.org.oracle.model;
+package com.org.home.model;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;

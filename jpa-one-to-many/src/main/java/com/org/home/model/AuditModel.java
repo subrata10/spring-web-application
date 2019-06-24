@@ -1,4 +1,4 @@
-package com.org.oracle.model;
+package com.org.home.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

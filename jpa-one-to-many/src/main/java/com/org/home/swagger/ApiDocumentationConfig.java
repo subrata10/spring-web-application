@@ -1,4 +1,4 @@
-package com.org.oracle.swagger;
+package com.org.home.swagger;
 
 
 import io.swagger.annotations.Contact;
@@ -25,7 +25,7 @@ import io.swagger.annotations.SwaggerDefinition;
         consumes = {"application/json", "application/xml"},
         produces = {"application/json", "application/xml"},
         schemes = {SwaggerDefinition.Scheme.HTTP, SwaggerDefinition.Scheme.HTTPS},
-        externalDocs = @ExternalDocs(value = "Read this for sure", url = "https://www.oracle.com")
+        externalDocs = @ExternalDocs(value = "Read this for sure", url = "https://www.mysite.com")
 
 )
 public interface ApiDocumentationConfig {

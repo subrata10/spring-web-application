@@ -1,9 +1,9 @@
-package com.org.oracle.controller;
+package com.org.home.controller;
 
-import com.org.oracle.exception.ResourceNotFoundException;
-import com.org.oracle.model.Comment;
-import com.org.oracle.repository.CommentRepository;
-import com.org.oracle.repository.PostRepository;
+import com.org.home.exception.ResourceNotFoundException;
+import com.org.home.model.Comment;
+import com.org.home.repository.CommentRepository;
+import com.org.home.repository.PostRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

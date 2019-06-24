@@ -1,4 +1,4 @@
-package com.org.oracle.swagger;
+package com.org.home.swagger;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.org.oracle.exception;
+package com.org.home.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

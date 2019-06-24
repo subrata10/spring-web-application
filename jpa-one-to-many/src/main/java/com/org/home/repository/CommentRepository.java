@@ -1,6 +1,6 @@
-package com.org.oracle.repository;
+package com.org.home.repository;
 
-import com.org.oracle.model.Comment;
+import com.org.home.model.Comment;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

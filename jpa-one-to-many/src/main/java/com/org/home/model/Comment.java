@@ -1,4 +1,4 @@
-package com.org.oracle.model;
+package com.org.home.model;
 
 import com.fasterxml.jackson.annotation.JsonIdentityInfo;
 import com.fasterxml.jackson.annotation.JsonIdentityReference;
