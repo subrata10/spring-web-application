@@ -1,4 +1,4 @@
-package com.org.oracle.swagger;
+package com.org.home.swagger;
 
 
 import io.swagger.annotations.Contact;

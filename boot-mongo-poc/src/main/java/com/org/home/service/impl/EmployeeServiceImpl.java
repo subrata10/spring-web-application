@@ -1,8 +1,8 @@
-package com.org.oracle.service.impl;
+package com.org.home.service.impl;
 
-import com.org.oracle.domain.Employee;
-import com.org.oracle.repository.EmployeeRepository;
-import com.org.oracle.service.EmployeeService;
+import com.org.home.domain.Employee;
+import com.org.home.repository.EmployeeRepository;
+import com.org.home.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Example;
 import org.springframework.stereotype.Service;
