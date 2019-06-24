@@ -1,4 +1,4 @@
-package com.org.oracle.endpoint;
+package com.org.home.endpoint;
 
 import org.springframework.stereotype.Service;
 
