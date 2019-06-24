@@ -1,7 +1,7 @@
-package com.org.oracle.controller;
+package com.org.home.controller;
 
-import com.org.oracle.model.Tag;
-import com.org.oracle.repository.TagRepository;
+import com.org.home.model.Tag;
+import com.org.home.repository.TagRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

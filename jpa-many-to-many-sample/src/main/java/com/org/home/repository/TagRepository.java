@@ -1,6 +1,6 @@
-package com.org.oracle.repository;
+package com.org.home.repository;
 
-import com.org.oracle.model.Tag;
+import com.org.home.model.Tag;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

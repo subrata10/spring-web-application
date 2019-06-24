@@ -1,4 +1,4 @@
-package com.org.oracle.model;
+package com.org.home.model;
 
 import org.hibernate.annotations.NaturalId;
 import org.hibernate.annotations.OnDelete;

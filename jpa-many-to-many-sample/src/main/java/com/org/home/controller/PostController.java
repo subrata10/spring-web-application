@@ -1,7 +1,7 @@
-package com.org.oracle.controller;
+package com.org.home.controller;
 
-import com.org.oracle.model.Post;
-import com.org.oracle.repository.PostRepository;
+import com.org.home.model.Post;
+import com.org.home.repository.PostRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

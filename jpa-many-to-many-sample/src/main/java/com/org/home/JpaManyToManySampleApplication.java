@@ -1,4 +1,4 @@
-package com.org.oracle;
+package com.org.home;
 
 /**
  *	Source of this sample is <link>https://www.callicoder.com/hibernate-spring-boot-jpa-many-to-many-mapping-example/</link>
@@ -6,10 +6,10 @@ package com.org.oracle;
  * 	Many to Many relation ship in JPA using Spring Boot framework and MySql DB
  */
 
-import com.org.oracle.model.Post;
-import com.org.oracle.model.Tag;
-import com.org.oracle.repository.PostRepository;
-import com.org.oracle.repository.TagRepository;
+import com.org.home.model.Post;
+import com.org.home.model.Tag;
+import com.org.home.repository.PostRepository;
+import com.org.home.repository.TagRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
