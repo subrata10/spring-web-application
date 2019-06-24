@@ -19,7 +19,7 @@ public class SwaggerConfig {
     public static final Contact DEFAULT_CONTACT = new Contact("subrata sikdar", "https://www.myhome.com", "subrata.sikdar@mysite.com");
 
     public static final ApiInfo DEFAULT_API_INFO = new ApiInfo(
-            "Oracle Cloud Infrastructure API", "OCI services", "1.0", "urn:tos", DEFAULT_CONTACT ,"Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0"
+            "JPA Mnay to many service API", "jpa services", "1.0", "urn:tos", DEFAULT_CONTACT ,"Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0"
     );
 
     private static final Set<String> DEFAULT_PRODUCES_AND_CONSUMES = new HashSet<>(Arrays.asList("application/json", "application/xml"));
