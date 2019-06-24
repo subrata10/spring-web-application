@@ -1,8 +1,8 @@
-package com.org.oracle.controller;
+package com.org.home.controller;
 
-import com.org.oracle.domain.Department;
-import com.org.oracle.service.DepartmentService;
-import com.org.oracle.service.EmployeeService;
+import com.org.home.domain.Department;
+import com.org.home.service.DepartmentService;
+import com.org.home.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
