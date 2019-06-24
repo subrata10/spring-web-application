@@ -1,7 +1,7 @@
-package com.org.oracle.config;
+package com.org.home.config;
 
-import com.org.oracle.endpoint.HelloService;
-import com.org.oracle.endpoint.ReverseService;
+import com.org.home.endpoint.HelloService;
+import com.org.home.endpoint.ReverseService;
 import org.glassfish.jersey.server.ResourceConfig;
 import org.springframework.context.annotation.Configuration;
 
